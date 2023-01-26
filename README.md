@@ -2,9 +2,9 @@
 Bu repo kodluyoruz frontend eğitimi kapsamında yaptığımız ödevleri bulunduruyor. İçinde 3 adet ödev bulunmakta.
 
 # Installation
-Öncelikle projeyi clonelayın. (https://github.com/erayalp808/Kodluyoruz-ilk-web-sayfasi)
+Öncelikle projeyi clonelayın. (https://github.com/erayalp808/CSS-Odevleri)
 
-`git clone https://github.com/erayalp808/Kodluyoruz-ilk-web-sayfasi`
+`git clone https://github.com/erayalp808/CSS-Odevleri`
 
 # Usage
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
