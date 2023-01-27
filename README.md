@@ -1,5 +1,5 @@
 # CSS Ödevleri
-Bu repo kodluyoruz frontend eğitimi kapsamında yaptığımız ödevleri bulunduruyor. İçinde 3 adet ödev bulunmakta.
+Bu repo kodluyoruz frontend eğitimi kapsamında yaptığımız ödevleri bulunduruyor. İçinde 2 adet ödev bulunmakta.
 
 # Installation
 Öncelikle projeyi clonelayın. (https://github.com/erayalp808/CSS-Odevleri)
